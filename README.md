@@ -10,7 +10,7 @@ github官方网站：https://github.com/
 客户端下载地址： https://pan.baidu.com/s/1fE5Ae_gEp4xPF635sj3uFQ
 
 
-3、新建项目：qweAAA
+3、新建项目：*****
 
 
 4、设置Github账号，密码
